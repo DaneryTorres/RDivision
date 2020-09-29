@@ -127,7 +127,7 @@ nav {
 #estructure {
   background-color: #d9d8d6;
   height: auto;
-  padding-top: 100px;
+  padding-top: 20px;
   padding-bottom: 100px;
   width: 100%;
   background-image: url("assets/maya.svg");
@@ -246,16 +246,16 @@ nav {
 
 #Research {
   width: 100%;
-  height: 110vh;
+  height: auto;
   background-image: url("assets/lab.svg");
   background-size: cover;
   background-position: bottom;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
   background-color: black;
   -webkit-box-align: center;
       -ms-flex-align: center;
@@ -264,14 +264,13 @@ nav {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  margin-bottom: 20px;
 }
 
 #Research h1 {
   font-family: "neo-sans";
   color: white;
   font-size: 50px;
-  margin-top: 200px;
+  margin-top: 50px;
 }
 
 #Research .content-div {
@@ -286,6 +285,7 @@ nav {
   margin-top: 20px;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
+  margin-bottom: 50px;
 }
 
 #Research .content-div span {
@@ -433,7 +433,7 @@ nav {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-color: white;
+  background-color: #e2e2e2;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
@@ -596,7 +596,7 @@ nav {
 
 #animac {
   width: 100%;
-  height: 110vh;
+  height: 90vh;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -679,5 +679,30 @@ nav {
   text-align: center;
   width: 350px;
   margin-top: 20px;
+}
+
+.modal-body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.modal-dialog {
+  max-width: 50% !important;
+}
+
+.modal-title {
+  font-family: 'Neo-sans-med';
+}
+
+.btn-secondary {
+  border-radius: 9px;
+  font-family: 'neo-sans';
 }
 /*# sourceMappingURL=main.css.map */

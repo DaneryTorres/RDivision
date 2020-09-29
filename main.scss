@@ -90,7 +90,7 @@ nav {
 #estructure {
     background-color: #d9d8d6;
     height: auto;
-    padding-top: 100px;
+    padding-top: 20px;
     padding-bottom: 100px;
     width: 100%;
     background-image: url("assets/maya.svg");
@@ -167,21 +167,21 @@ nav {
 }
 #Research {
     width: 100%;
-    height: 110vh;
+    height: auto;
     background-image: url("assets/lab.svg");
     background-size: cover;
     background-position: bottom;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     background-color: black;
     align-items: center;
     flex-direction: column;
-    margin-bottom: 20px;
+
     h1 {
         font-family: "neo-sans";
         color: white;
         font-size: 50px;
-        margin-top: 200px;
+        margin-top: 50px;
     }
     .content-div {
         width: 1000px;
@@ -190,6 +190,7 @@ nav {
         justify-content: space-between;
         margin-top: 20px;
         flex-wrap: wrap;
+            margin-bottom: 50px;
         span {
             writing-mode: vertical-rl;
             text-orientation: mixed;
@@ -282,7 +283,7 @@ nav {
             display: flex;
             justify-content: center;
             align-items: center;
-            background-color: white;
+            background-color: rgb(226, 226, 226);
             flex-direction: column;
             transition: 0.3s ease-in-out;
             box-shadow: rgba(150, 150, 150, 0.171) 0px 2px 20px;
@@ -383,7 +384,7 @@ nav {
 
 #animac {
     width: 100%;
-    height: 110vh;
+    height: 90vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -435,4 +436,22 @@ nav {
             margin-top: 20px;
         }
     }
+}
+
+.modal-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.modal-dialog{
+  max-width: 50% !important;
+}
+
+.modal-title{
+    font-family: 'Neo-sans-med';
+ 
+}
+.btn-secondary{
+    border-radius: 9px;
+    font-family: 'neo-sans';
 }
