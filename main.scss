@@ -187,7 +187,7 @@ nav {
         width: 1000px;
         height: auto;
         display: flex;
-        justify-content: space-evenly;
+        justify-content: space-between;
         margin-top: 20px;
         flex-wrap: wrap;
         span {
@@ -199,7 +199,7 @@ nav {
             font-family: "neo-sans";
         }
         .cont-item {
-            margin: 10px;
+            margin: 50px;
             width: 200px;
             height: 250px;
             border-radius: 9px;
