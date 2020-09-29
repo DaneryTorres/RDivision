@@ -1,0 +1,203 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="688.407" height="418.124" viewBox="0 0 688.407 418.124">
+  <defs>
+    <style>
+
+.vibrate-1{
+    -webkit-animation: vibrate-1 2s ease-in-out infinite both ;
+	        animation: vibrate-1 2s ease-in-out infinite both;
+            animation-direction: alternate-reverse;
+}
+.vibrate-2{
+    -webkit-animation: vibrate-2 2s ease-in-out infinite both ;
+	        animation: vibrate-2 2s ease-in-out infinite both;
+            animation-direction: alternate-reverse;
+}
+            
+@-webkit-keyframes vibrate-1 {
+  0% {
+    -webkit-transform: translate(0);
+            transform: translate(0);
+  }
+  20% {
+    -webkit-transform: translate(-1px, 3px);
+            transform: translate(-3px, 3px);
+  }
+  40% {
+    -webkit-transform: translate(-3px, -3px);
+            transform: translate(-3px, -3px);
+  }
+  60% {
+    -webkit-transform: translate(3px, 0px);
+            transform: translate(3px, 3px);
+  }
+  80% {
+    -webkit-transform: translate(3px, -3px);
+            transform: translate(3px, -3px);
+  }
+  100% {
+    -webkit-transform: translate(0);
+            transform: translate(0);
+  }
+}
+@keyframes vibrate-2 {
+  0% {
+    -webkit-transform: translate(0);
+            transform: translate(0);
+  }
+  20% {
+    -webkit-transform: translate(2px, -2px);
+            transform: translate(2px, -2px);
+  }
+  40% {
+    -webkit-transform: translate(-2px, 2px);
+            transform: translate(-2px, 2px);
+  }
+  60% {
+    -webkit-transform: translate(2px, 2px);
+            transform: translate(2px, 2px);
+  }
+  80% {
+    -webkit-transform: translate(-2px, -2px);
+            transform: translate(-2px, -2px);
+  }
+  100% {
+    -webkit-transform: translate(0);
+            transform: translate(0);
+  }
+}
+
+
+
+
+
+
+      .cls-1 {
+        fill: none;
+        stroke: #15374a;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill: #1a1718;
+      }
+
+      .cls-3 {
+        opacity: 0.7;
+      }
+
+      .cls-4 {
+        fill: #3f5f5f;
+      }
+
+      .cls-5 {
+        font-size: 127.274px;
+      }
+
+      .cls-11, .cls-5, .cls-6 {
+        font-family: NeoSans-Light, Neo Sans;
+        font-weight: 300;
+      }
+
+      .cls-11, .cls-6 {
+        font-size: 13.142px;
+      }
+
+      .cls-7 {
+        font-size: 283.378px;
+      }
+
+      .cls-7, .cls-8 {
+        font-family: NeoSans-Medium, Neo Sans;
+        font-weight: 500;
+      }
+
+      .cls-8 {
+        font-size: 153.21px;
+      }
+
+      .cls-10, .cls-11, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-10, .cls-9 {
+        font-size: 50.721px;
+        font-family: NeoSans, Neo Sans;
+      }
+
+      .cls-9 {
+        letter-spacing: -0.13em;
+      }
+    </style>
+  </defs>
+  <g id="Grupo_1840" data-name="Grupo 1840" transform="translate(-207.831 -812.099)">
+    <g id="Grupo_1837" data-name="Grupo 1837">
+      <g id="Grupo_1825" data-name="Grupo 1825">
+        <path id="Trazado_781" data-name="Trazado 781" class="cls-1" d="M279.713,948.007c.044,0-.255,2.4,7.652,10.3l.683.684v86.548l-75.742,129.994a26.4,26.4,0,0,0-3.975,14.322c0,9.183,9.434,13.363,18.2,13.363H410.217c8.766,0,18.2-4.18,18.2-13.363a26.008,26.008,0,0,0-3.976-14.322l-.135-.21L348.7,1045.543V958.995l.684-.684c8.05-8.048,7.6-10.389,7.589-10.412a7.466,7.466,0,0,0-1.5-.175,6.921,6.921,0,0,0-.746.039l-.413.043-.407-.1a11.323,11.323,0,0,0-2.73-.258,31.87,31.87,0,0,0-4.3.329l-.362.028-56.632-.028a31.9,31.9,0,0,0-4.3-.329,11.337,11.337,0,0,0-2.732.258l-.4.1-.415-.043a6.893,6.893,0,0,0-.744-.039,3.019,3.019,0,0,0-1.568.283Z"/>
+      </g>
+      <g id="Grupo_1826" data-name="Grupo 1826">
+        <path id="Trazado_782" data-name="Trazado 782" class="cls-2" d="M270.177,1094.283l-46.269,76.746s-5.031,9.365-2.656,16.212,3.914,11.18,25.16,11.18H398.777s13.98.424,16.635-10.624-1.54-16.353-9.926-29.494-36.064-58.429-36.064-58.429-11.6,6.57-22.644,6.433-28.237,2.656-38.161-.7S274.089,1089.669,270.177,1094.283Z"/>
+      </g>
+      <g id="Grupo_1827" class="vibrate-2" data-name="Grupo 1827">
+        <path id="Trazado_783" data-name="Trazado 783" class="cls-2" d="M331.46,930.549a7.234,7.234,0,1,0-7.234,7.235A7.234,7.234,0,0,0,331.46,930.549Z"/>
+      </g>
+      <g id="Grupo_1830" class="vibrate-1" data-name="Grupo 1830">
+        <g id="Grupo_1828" data-name="Grupo 1828">
+          <path id="Trazado_784" data-name="Trazado 784" class="cls-2" d="M350.968,918.393a12.942,12.942,0,1,0,10.546-14.959A12.941,12.941,0,0,0,350.968,918.393Z"/>
+        </g>
+        <g id="Grupo_1829" data-name="Grupo 1829" class="cls-3">
+          <path id="Trazado_785" data-name="Trazado 785" class="cls-4" d="M373.828,916.185s.022-.25.05-.684a5.086,5.086,0,0,0-.01-.792,5.5,5.5,0,0,0-.113-1.037,6.482,6.482,0,0,0-.3-1.2,9.322,9.322,0,0,0-.518-1.288,10.442,10.442,0,0,0-.78-1.269,11.7,11.7,0,0,0-.987-1.181,11.52,11.52,0,0,0-1.183-.989,9.77,9.77,0,0,0-1.267-.779,9.366,9.366,0,0,0-1.29-.518,6.3,6.3,0,0,0-1.2-.3,5.484,5.484,0,0,0-1.033-.113,4.723,4.723,0,0,0-.793-.008c-.441.023-.687.051-.687.051s.25.05.675.118a9.887,9.887,0,0,1,1.717.436,8.332,8.332,0,0,1,1.089.419c.389.143.753.39,1.155.583a13.7,13.7,0,0,1,1.133.781,11.125,11.125,0,0,1,1.069.928,11.444,11.444,0,0,1,.931,1.07,13.291,13.291,0,0,1,.78,1.132c.193.4.441.766.583,1.155a8.672,8.672,0,0,1,.42,1.09,9.791,9.791,0,0,1,.436,1.716C373.777,915.939,373.828,916.185,373.828,916.185Z"/>
+        </g>
+      </g>
+      <g id="Grupo_1833" class="vibrate-1" data-name="Grupo 1833">
+        <g id="Grupo_1831" data-name="Grupo 1831">
+          <path id="Trazado_786" data-name="Trazado 786" class="cls-2" d="M359.918,877.053a9.02,9.02,0,1,0,7.349-10.425A9.018,9.018,0,0,0,359.918,877.053Z"/>
+        </g>
+        <g id="Grupo_1832" data-name="Grupo 1832" class="cls-3">
+          <path id="Trazado_787" data-name="Trazado 787" class="cls-4" d="M375.849,875.515s.017-.174.035-.477a3.348,3.348,0,0,0-.007-.552,3.752,3.752,0,0,0-.079-.723,4.411,4.411,0,0,0-.207-.836,6.6,6.6,0,0,0-.36-.9,7.258,7.258,0,0,0-.544-.884,7.841,7.841,0,0,0-.689-.823,7.751,7.751,0,0,0-.823-.689,6.694,6.694,0,0,0-.884-.543,6.357,6.357,0,0,0-.9-.361,4.477,4.477,0,0,0-.836-.208,3.886,3.886,0,0,0-.719-.078,3.244,3.244,0,0,0-.554-.006c-.307.016-.478.036-.478.036s.173.035.47.081a7.1,7.1,0,0,1,1.2.3,6.063,6.063,0,0,1,.76.292c.27.1.524.272.8.407.259.174.537.337.789.545a7.829,7.829,0,0,1,.746.646,8.005,8.005,0,0,1,.648.746,9.566,9.566,0,0,1,.544.788c.134.282.308.535.406.806a5.751,5.751,0,0,1,.292.759,6.757,6.757,0,0,1,.3,1.2C375.813,875.344,375.849,875.515,375.849,875.515Z"/>
+        </g>
+      </g>
+      <g id="Grupo_1836" class="vibrate-2" data-name="Grupo 1836">
+        <g id="Grupo_1834" data-name="Grupo 1834">
+          <path id="Trazado_788" data-name="Trazado 788" class="cls-2" d="M302.4,898.816a19.9,19.9,0,1,0,16.22-23.006A19.9,19.9,0,0,0,302.4,898.816Z"/>
+        </g>
+        <g id="Grupo_1835" data-name="Grupo 1835" class="cls-3">
+          <path id="Trazado_789" data-name="Trazado 789" class="cls-4" d="M337.557,895.421s.035-.385.077-1.053a7.545,7.545,0,0,0-.015-1.219,8.334,8.334,0,0,0-.174-1.594,9.927,9.927,0,0,0-.457-1.845,14.545,14.545,0,0,0-.8-1.981,15.9,15.9,0,0,0-1.2-1.951,13.344,13.344,0,0,0-3.338-3.337,14.933,14.933,0,0,0-1.951-1.2,14.381,14.381,0,0,0-1.98-.8,9.754,9.754,0,0,0-1.846-.458,8.51,8.51,0,0,0-1.587-.174,7.188,7.188,0,0,0-1.221-.011c-.679.036-1.057.078-1.057.078s.385.077,1.039.182a15.181,15.181,0,0,1,2.64.67,12.954,12.954,0,0,1,1.675.643c.6.221,1.158.6,1.778.9a20.97,20.97,0,0,1,1.741,1.2,15.472,15.472,0,0,1,3.075,3.073,20.5,20.5,0,0,1,1.2,1.741c.3.62.678,1.179.9,1.776a13.116,13.116,0,0,1,.645,1.676,14.979,14.979,0,0,1,.672,2.64C337.478,895.042,337.557,895.421,337.557,895.421Z"/>
+        </g>
+      </g>
+    </g>
+    <text id="Division" class="cls-5" transform="translate(455.754 1203.223)"><tspan x="0" y="0">Division</tspan></text>
+    <text id="_0" data-name="0" class="cls-6" transform="translate(315.229 1099.069)"><tspan x="0" y="0">0</tspan></text>
+    <text id="_0-2" data-name="0" class="cls-6" transform="translate(335.645 1095.099)"><tspan x="0" y="0">0</tspan></text>
+    <text id="_0-3" data-name="0" class="cls-6" transform="translate(335.033 1074.262)"><tspan x="0" y="0">0</tspan></text>
+    <text id="_1" data-name="1" class="cls-6" transform="translate(299.728 1067.314)"><tspan x="0" y="0">1</tspan></text>
+    <text id="_0-4" data-name="0" class="cls-6" transform="translate(308.171 1067.314)"><tspan x="0" y="0">0</tspan></text>
+    <text id="_0-5" data-name="0" class="cls-6" transform="translate(325.456 1047.35)"><tspan x="0" y="0">0</tspan></text>
+    <text id="_1-2" data-name="1" class="cls-6" transform="translate(333.346 1047.35)"><tspan x="0" y="0">1</tspan></text>
+    <text id="_0-6" data-name="0" class="cls-6" transform="translate(302.147 1027.086)"><tspan x="0" y="0">0</tspan></text>
+    <text id="_1-3" data-name="1" class="cls-6" transform="translate(309.269 1027.086)"><tspan x="0" y="0">1</tspan></text>
+    <text id="_0-7" data-name="0" class="cls-6" transform="translate(335.033 995.304)"><tspan x="0" y="0">0</tspan></text>
+    <text id="_0-8" data-name="0" class="cls-6" transform="translate(293.749 998.675)"><tspan x="0" y="0">0</tspan></text>
+    <text id="_0-9" data-name="0" class="cls-6" transform="translate(300.872 998.675)"><tspan x="0" y="0">0</tspan></text>
+    <text id="_0-10" data-name="0" class="cls-6" transform="translate(313.363 980.631)"><tspan x="0" y="0">0</tspan></text>
+    <text id="_0-11" data-name="0" class="cls-6" transform="translate(320.62 980.631)"><tspan x="0" y="0">0</tspan></text>
+    <text id="_0-12" data-name="0" class="cls-6" transform="translate(325.456 1015.667)"><tspan x="0" y="0">0</tspan></text>
+    <text id="R" class="cls-7" transform="translate(436.042 1095.099)"><tspan x="0" y="0">R</tspan></text>
+    <text id="_" data-name="&amp;" class="cls-8" transform="translate(606.949 1095.099)"><tspan x="0" y="0">&amp;</tspan></text>
+    <text id="D" class="cls-7" transform="translate(706.238 1095.099)"><tspan x="0" y="0">D</tspan></text>
+    <g id="Grupo_1838" data-name="Grupo 1838">
+      <text id="_2" data-name="&lt;/" class="cls-9" transform="translate(277.203 1183.711)"><tspan x="0" y="0">&lt;/</tspan></text>
+      <text id="_3" data-name="&gt;" class="cls-10" transform="translate(330.14 1183.711)"><tspan x="0" y="0">&gt;</tspan></text>
+    </g>
+    <g id="Grupo_1839" data-name="Grupo 1839">
+      <text id="_0-13" data-name="0" class="cls-11" transform="translate(285.616 1130.9)"><tspan x="0" y="0">0</tspan></text>
+      <text id="_0-14" data-name="0" class="cls-11" transform="translate(303.055 1130.9)"><tspan x="0" y="0">0</tspan></text>
+      <text id="_0-15" data-name="0" class="cls-11" transform="translate(325.213 1135.575)"><tspan x="0" y="0">0</tspan></text>
+      <text id="_0-16" data-name="0" class="cls-11" transform="translate(339.956 1130.9)"><tspan x="0" y="0">0</tspan></text>
+      <text id="_1-4" data-name="1" class="cls-11" transform="translate(311.146 1123.351)"><tspan x="0" y="0">1</tspan></text>
+      <text id="_1-5" data-name="1" class="cls-11" transform="translate(333.08 1123.351)"><tspan x="0" y="0">1</tspan></text>
+      <text id="_1-6" data-name="1" class="cls-11" transform="translate(349.262 1133.418)"><tspan x="0" y="0">1</tspan></text>
+      <text id="_1-7" data-name="1" class="cls-11" transform="translate(316.36 1131.98)"><tspan x="0" y="0">1</tspan></text>
+      <text id="_0-17" data-name="0" class="cls-11" transform="translate(294.012 1134.856)"><tspan x="0" y="0">0</tspan></text>
+    </g>
+  </g>
+</svg>
